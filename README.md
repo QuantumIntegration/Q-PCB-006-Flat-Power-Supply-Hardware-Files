@@ -1,4 +1,4 @@
-# Quantum DIY Kit Hardware Files - Power Supply Flat
+# Quantum DIY Kit Hardware Files - Flat Power Supply
 ## Introduction
 
 <img src="assembled.png" alt="alt text" width="400"/>
